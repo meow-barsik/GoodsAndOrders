@@ -1,0 +1,11 @@
+#ДЛЯ ЗАПУСКА
+
+#создать виртуальное окружение
+1.
+    python -m venv venv
+    venv\Scripts\activate
+
+#установить необходимые зависимости
+
+2.
+    pip install -r depend.txt
